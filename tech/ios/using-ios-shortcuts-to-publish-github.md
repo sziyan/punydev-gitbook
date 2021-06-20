@@ -2,13 +2,13 @@
 
 _Disclaimer: Although workable, this method requires some setting up of files in iCloud Drive before hand, as well as a paid app for it to work_
 
-### Table of Contents
+## Table of Contents
 
 * Requirements
 * Preparation 
 * Shortcut explaination
 
-#### Requirements
+### Requirements
 
 * GitHub account with GitHub pages repo created and setup.
 * Jekyll installed on GitHub pages \(optional, but require some work on editing the shortcut\)
@@ -18,7 +18,7 @@ _Disclaimer: Although workable, this method requires some setting up of files in
 * Pro version unlocked for [‎Working Copy](https://apps.apple.com/us/app/working-copy/id896694807?ign-mpt=uo%3D6)
 * [‎Esse](https://apps.apple.com/us/app/esse/id1438921989)
 
-#### Preparation
+### Preparation
 
 ~**Cloud Storage**~
 
@@ -44,7 +44,7 @@ Working Copy is a full fledged git client for our iOS devices. The killer featur
 
 Logging in to Working Copy is pretty straight forward. Tap on + button, select “Clone Repository”, sign in to your GitHub account and voila! Select your GitHub Pages repo to add it to your device.
 
-#### Shortcut explanation
+### Shortcut explanation
 
 I will not be going through each and every step of what my shortcut does. It will be too long for this post. Instead, I will explain the brief idea during the creation of shortcut. The way I create my shortcut might not be the best, but I find that it fits quite well into my workflow.
 
@@ -66,7 +66,7 @@ I will not be going through each and every step of what my shortcut does. It wil
 * Combine metadata and shortcut input contents to form a blog post.
 * Pull, commit and push to repo with [‎Working Copy](https://apps.apple.com/us/app/working-copy/id896694807?ign-mpt=uo%3D6) 
 
-#### Signing off
+## Signing off
 
 Although the shortcut created might not be optimised for speed, it fulfils my current workflow. Publishing of post and uploading to imgur takes no more than 1 minute. I might post the shortcut itself once I ironed some of the possible bugs as well as clean it up for general usage.
 
