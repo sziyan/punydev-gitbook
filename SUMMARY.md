@@ -4,5 +4,6 @@
 
 ## Tech
 
-* [iOS](tech/untitled.md)
+* [iOS](tech/untitled/README.md)
+  * [Using ios shortcuts to publish github](tech/untitled/using-ios-shortcuts-to-publish-github.md)
 
