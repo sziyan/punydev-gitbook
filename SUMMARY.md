@@ -4,5 +4,5 @@
 
 ## Tech
 
-* [Untitled](tech/untitled.md)
+* [test](tech/untitled.md)
 
