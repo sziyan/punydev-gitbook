@@ -1,4 +1,6 @@
-# Initial page
+# Home Page
 
-this is a test
+Welcome to my wiki page! 
+
+This will be where I grow my digital garden and dump all my learnings in my life, both personal and professional . 
 

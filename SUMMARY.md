@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Home Page](README.md)
 
 ## Tech
 
