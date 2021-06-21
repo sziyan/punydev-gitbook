@@ -12,3 +12,7 @@
 
 * [Mac](mac.md)
 
+---
+
+* [Home Automation](tech/home_automation/README.md)
+  * [Using Broadlink RM Mini 4 in Home Assistant](tech/home_automation/using-broadlink-rm-mini-in-home-assistant.md)
