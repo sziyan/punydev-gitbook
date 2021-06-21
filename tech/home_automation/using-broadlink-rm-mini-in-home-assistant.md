@@ -1,8 +1,3 @@
-# Using Broadlink RM Mini 4 in Home Assistant
-
-# Broadlink Universal Remote
-#tech/hardware/home automation# #tech/guides
-
 **Model:** Broadlink RM 4 mini IR
 
 In order for home assistant to interact with broadlink connected devices, home assistant is required to learn the IR codes first. 
