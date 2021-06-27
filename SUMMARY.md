@@ -12,5 +12,4 @@
   * [Home Assistant Tasmota](tech/home_automation/home-assistant-tasmota.md)
   * [Tuya-Convert Raspberry Pi](tech/home_automation/tuya-convert-raspberry-pi.md)
   * [Aqara Home Automation](tech/home_automation/aqara-home-automation.md)
-  * [Hook - Mac](tech/home_automation/hook-mac.md)
 
