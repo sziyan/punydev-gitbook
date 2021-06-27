@@ -41,7 +41,7 @@ In order for the learnt code to be usable in Home Assistant, convert the string 
   # and repeat as neccessary
   ```
 
-* Save configuration,yaml, proceed to server control and check configuration before restarting home assistant. 
+* Save configuration,yaml, proceed to server control and check configuration before restarting home assistant.
 
 ## Using Python Broadlink python library as Python script
 
